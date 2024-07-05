@@ -40,7 +40,7 @@ fun SplashScreen(
         ) {
             Image(
                 painterResource(id = R.drawable.shayari_logo),
-                contentDescription = "",
+                contentDescription = "This is Splash screen",
                 modifier = Modifier
                     .size(100.dp)
 
